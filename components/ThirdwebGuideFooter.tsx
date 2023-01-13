@@ -30,7 +30,7 @@ export default function ThirdwebGuideFooter() {
       >
         <img
           src={"/Discord.png"}
-          alt="PictoCrypto Discord"
+          alt="Just Dont Discord"
           width={40}
           height={40}
           role="button"
